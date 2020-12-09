@@ -1,0 +1,14 @@
+
+
+*.o
+*.o.d
+*.ko
+*.mod.c
+*.cmd
+*.symvers
+*.order
+.tmp_versions
+.mluti_hook*
+
+deb/
+scripts/multi-hook-dkms_1.0.0_amd64.deb
