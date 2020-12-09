@@ -1,0 +1,9 @@
+Package: multi-hook-dkms
+Version: 1.3.0
+Architecture: amd64
+License: GPL
+Maintainer: zhangianyu.sys@bytedance.com
+Installed-Size: 50
+Section: default
+Priority: extra
+Description: expand one function pointer in linux kernel to multi hook points.
